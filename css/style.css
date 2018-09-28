@@ -1,0 +1,15 @@
+.body {
+    position: relative;
+}
+.idea-page-home {
+    background: #fafafa url(../images/backslant-home-repeat.svg) repeat-y 50% 0;
+    background-size: 100vw;
+    overflow: hidden;
+    width: 100%;
+}
+.aquamarine {
+    background-color: aquamarine;
+}
+.cadetblue {
+    background-color: cadetblue;
+}
