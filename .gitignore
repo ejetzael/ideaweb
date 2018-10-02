@@ -12,8 +12,8 @@ log.txt
 .vscode/
 npm-debug.log*
 
-nj-md/
-complements/
+.nj-md/
+.complements/
 .idea/
 .sourcemaps/
 .sass-cache/
@@ -21,7 +21,7 @@ complements/
 .versions/
 coverage/
 dist/
-node_modules/
+.node_modules/
 tmp/
 temp/
 hooks/
